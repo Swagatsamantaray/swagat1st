@@ -1,4 +1,4 @@
 # swagat1st
 My first git repository...
 <br>
-by ~ swagat
+by ~ swagat samantaray
